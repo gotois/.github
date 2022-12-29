@@ -1,5 +1,5 @@
 # This is goto Interactive Software 
-> Ботификация жизни начинается здесь[^1]
+> Ботификация[^1] жизни начинается здесь
 
 ## Manifest
 <https://gotointeractive.com/manifest>
