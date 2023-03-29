@@ -1,6 +1,9 @@
 # This is goto Interactive Software 
 > Ботификация[^1] жизни начинается здесь
 
+## Discussion
+<https://github.com/orgs/gotois/discussions>
+
 ## Manifest
 <https://gotointeractive.com/manifest>
 
