@@ -1,5 +1,8 @@
-# This is goto Interactive Software 
-> Ботификация[^1] жизни начинается здесь
+# The GIC
+> goto Interactive Communications: Ботификация[^1] жизни начинается здесь
+
+## DAO
+<https://app.aragon.org/#/daos/ethereum/gic.dao.eth>
 
 ## Discussion
 <https://github.com/orgs/gotois/discussions>
