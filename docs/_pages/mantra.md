@@ -8,7 +8,7 @@ permalink: /mantra
 
 ## Культура ведения бизнеса
 
-![Концепт культуры 4X](https://tewst-landing-page.web.app/assets/images/4x-1.png){:height="512":loading="lazy"}
+![Концепт культуры 4X](https://tewst-landing-page.web.app/assets/images/4x-1.png){:height="384":loading="lazy"}
 
 ### ВЫСОКИЕ ЦЕЛИ ✨
 - Стремимся создавать уникальные разработки
@@ -54,7 +54,7 @@ permalink: /mantra
 
 ## Корпоративные ценности
 
-![Триада построения ПО](https://tewst-landing-page.web.app/assets/images/0.png){:height="512":loading="lazy"}
+![Триада построения ПО](https://tewst-landing-page.web.app/assets/images/0.png){:height="384":loading="lazy"}
 
 ### Безопасность
 Прозрачность в выбранных решениях.
