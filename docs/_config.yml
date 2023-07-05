@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://gotointeractive.com"
 github_username: gotois
-google_analytics: UA-28526899-10
+google_analytics: G-NW4M59MNW7
 
 include: ["_pages"]
 
