@@ -1,6 +1,8 @@
 ---
 layout: base
-title: Манифест организации
+title: Манифест DAO
+tags:
+  - Manifest
 permalink: /manifest
 ---
 

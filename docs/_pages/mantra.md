@@ -1,6 +1,9 @@
 ---
 layout: base
-title: Мантра организации 
+title: Мантра DAO
+tags:
+  - Mantra
+  - Goals
 permalink: /mantra
 ---
 
