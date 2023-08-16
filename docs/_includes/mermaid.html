@@ -1,15 +1,21 @@
 <style lang="css">
 .language-mermaid,
 pre:has(code.language-mermaid) {
-	background: transparent;
+  background: transparent;
+  text-align: center;
+  border-style: hidden;
 }
 </style>
 <script type="module">
 import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-mermaid.initialize({startOnLoad: false});
-if (document.querySelectorAll('.language-mermaid').length) {
+
+const nodes = document.querySelectorAll('.language-mermaid');
+if (nodes.length) {
+  mermaid.initialize({
+    startOnLoad: false,
+  });
   await mermaid.run({
-    nodes: document.querySelectorAll('.language-mermaid'),
+    nodes: nodes,
   });
 }
 </script>

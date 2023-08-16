@@ -1,11 +1,10 @@
 # Site settings
 title: goto Interactive Communications
 description: >- # this means to ignore newlines until "baseurl:"
-  Ботификация жизни начинается здесь. Начато в 2014 году.
+  Ботификация жизни начинается здесь. Начато в 2014 году (ГК).
 baseurl: ""
 url: "https://gotointeractive.com"
 github_username: gotois
-google_analytics: G-NW4M59MNW7
 
 include: ["_pages"]
 
