@@ -8,13 +8,13 @@
   </style>
   <body>
     {%- include header.html -%}
+    {% include dialog.html %}
     <main class="page-content" aria-label="Content">
       <article class="wrapper">
         {{ content }}
       </article>
     </main>
     {%- include footer.html -%}
-    {% include dialog.html %}
     {% include mermaid.html %}
   </body>
 </html>
